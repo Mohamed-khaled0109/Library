@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\library\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|solutionrelative:library\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\library\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|solutionrelative:library\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|d:\\back end\\entity freamwork\\ef\\codes\\library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\library\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|solutionrelative:library\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\library\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|solutionrelative:library\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\library\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|solutionrelative:library\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\library\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|solutionrelative:library\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\library\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|solutionrelative:library\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\library\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|solutionrelative:library\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\library\\registrars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|solutionrelative:library\\registrars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|solutionrelative:library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\library\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ED4D9CE-6ADA-49D1-89AF-EBAFCBE99C14}|Library\\Library.csproj|solutionrelative:library\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form4.cs",
+              "RelativeDocumentMoniker": "Library\\Form4.cs",
+              "ToolTip": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form4.cs [Design]",
+              "RelativeToolTip": "Library\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:26:58.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form4.cs",
+              "RelativeDocumentMoniker": "Library\\Form4.cs",
+              "ToolTip": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form4.cs",
+              "RelativeToolTip": "Library\\Form4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:13:36.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form3.cs",
+              "RelativeDocumentMoniker": "Library\\Form3.cs",
+              "ToolTip": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form3.cs [Design]",
+              "RelativeToolTip": "Library\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:26:20.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form3.cs",
+              "RelativeDocumentMoniker": "Library\\Form3.cs",
+              "ToolTip": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form3.cs",
+              "RelativeToolTip": "Library\\Form3.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAFoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:44:50.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form5.cs",
+              "RelativeDocumentMoniker": "Library\\Form5.cs",
+              "ToolTip": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form5.cs",
+              "RelativeToolTip": "Library\\Form5.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAF8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:16:00.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form1.cs",
+              "RelativeDocumentMoniker": "Library\\Form1.cs",
+              "ToolTip": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form1.cs",
+              "RelativeToolTip": "Library\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:24:27.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form1.cs",
+              "RelativeDocumentMoniker": "Library\\Form1.cs",
+              "ToolTip": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form1.cs [Design]",
+              "RelativeToolTip": "Library\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:23:22.932Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form5.cs",
+              "RelativeDocumentMoniker": "Library\\Form5.cs",
+              "ToolTip": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form5.cs [Design]",
+              "RelativeToolTip": "Library\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:13:42.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Registrars.cs",
+              "DocumentMoniker": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Registrars.cs",
+              "RelativeDocumentMoniker": "Library\\Registrars.cs",
+              "ToolTip": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Registrars.cs",
+              "RelativeToolTip": "Library\\Registrars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:31:33.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Context.cs",
+              "RelativeDocumentMoniker": "Library\\Context.cs",
+              "ToolTip": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Context.cs",
+              "RelativeToolTip": "Library\\Context.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvw0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:27:45.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form5.Designer.cs",
+              "DocumentMoniker": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form5.Designer.cs",
+              "RelativeDocumentMoniker": "Library\\Form5.Designer.cs",
+              "ToolTip": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form5.Designer.cs",
+              "RelativeToolTip": "Library\\Form5.Designer.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAIAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:26:26.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Book.cs",
+              "RelativeDocumentMoniker": "Library\\Book.cs",
+              "ToolTip": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Book.cs",
+              "RelativeToolTip": "Library\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:56:15.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form2.cs",
+              "RelativeDocumentMoniker": "Library\\Form2.cs",
+              "ToolTip": "D:\\back end\\Entity Freamwork\\EF\\codes\\Library\\Library\\Form2.cs [Design]",
+              "RelativeToolTip": "Library\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:25:51.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
